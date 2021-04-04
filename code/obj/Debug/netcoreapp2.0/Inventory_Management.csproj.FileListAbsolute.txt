@@ -1,0 +1,16 @@
+C:\Users\bhave\Downloads\Asp.Net-Core-Inventory-Order-Management-System-master\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\bhave\Downloads\Asp.Net-Core-Inventory-Order-Management-System-master\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\bhave\Downloads\Asp.Net-Core-Inventory-Order-Management-System-master\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\bhave\Downloads\Asp.Net-Core-Inventory-Order-Management-System-master\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\bin\Debug\netcoreapp2.0\Inventory_Management.deps.json
+C:\Users\bhave\Downloads\Asp.Net-Core-Inventory-Order-Management-System-master\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\bin\Debug\netcoreapp2.0\Inventory_Management.runtimeconfig.json
+C:\Users\bhave\Downloads\Asp.Net-Core-Inventory-Order-Management-System-master\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\bin\Debug\netcoreapp2.0\Inventory_Management.runtimeconfig.dev.json
+C:\Users\bhave\Downloads\Asp.Net-Core-Inventory-Order-Management-System-master\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\bin\Debug\netcoreapp2.0\Inventory_Management.dll
+C:\Users\bhave\Downloads\Asp.Net-Core-Inventory-Order-Management-System-master\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\bin\Debug\netcoreapp2.0\Inventory_Management.pdb
+C:\Users\bhave\Downloads\Asp.Net-Core-Inventory-Order-Management-System-master\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\obj\Debug\netcoreapp2.0\Inventory_Management.AssemblyInfoInputs.cache
+C:\Users\bhave\Downloads\Asp.Net-Core-Inventory-Order-Management-System-master\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\obj\Debug\netcoreapp2.0\Inventory_Management.AssemblyInfo.cs
+C:\Users\bhave\Downloads\Asp.Net-Core-Inventory-Order-Management-System-master\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\obj\Debug\netcoreapp2.0\Inventory_Management.csproj.CoreCompileInputs.cache
+C:\Users\bhave\Downloads\Asp.Net-Core-Inventory-Order-Management-System-master\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\bhave\Downloads\Asp.Net-Core-Inventory-Order-Management-System-master\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\obj\Debug\netcoreapp2.0\Inventory_Management.dll
+C:\Users\bhave\Downloads\Asp.Net-Core-Inventory-Order-Management-System-master\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\obj\Debug\netcoreapp2.0\Inventory_Management.pdb
+C:\Users\bhave\Downloads\Asp.Net-Core-Inventory-Order-Management-System-master\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\obj\Debug\netcoreapp2.0\Inventory_Management.genruntimeconfig.cache
+C:\Users\bhave\Downloads\Asp.Net-Core-Inventory-Order-Management-System-master\Asp.Net-Core-Inventory-Order-Management-System-master\coderush\obj\Debug\netcoreapp2.0\Inventory_Management.csprojAssemblyReference.cache
